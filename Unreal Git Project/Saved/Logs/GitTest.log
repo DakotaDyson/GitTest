@@ -1603,3 +1603,113 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.01-19.01.18:792][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 357 ms (total: 1.94 sec)
 [2023.03.01-19.01.18:796][830]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_B04F130491A9366B01_1262918655
 [2023.03.01-19.01.18:796][830]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_B04F130491A9366B01_1262918655
+[2023.03.01-19.09.34:516][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:516][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Bridge/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:516][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:516][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:516][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:516][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:516][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:516][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:516][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/FX/Niagara/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:517][433]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'Y:/CW Unreal Projects/GitTest'
+[2023.03.01-19.09.34:643][433]EditorErrors: Warning: No assets to check in!
+[2023.03.01-19.09.50:986][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.01-19.09.50:988][275]Cmd: MAP LOAD FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.01-19.09.50:988][275]LightingResults: New page: Lighting Build
+[2023.03.01-19.09.50:988][275]LoadErrors: New page: Loading map: NewMap.umap
+[2023.03.01-19.09.51:040][275]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-19.09.51:041][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-19.09.51:048][275]LogContentBundle: [Container: NewMap] Deleting container.
+[2023.03.01-19.09.51:048][275]MapCheck: New page: Map Check
+[2023.03.01-19.09.51:048][275]LightingResults: New page: Lighting Build
+[2023.03.01-19.09.51:063][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-19.09.51:075][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.01-19.09.51:083][275]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2023.03.01-19.09.51:083][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.01-19.09.51:083][275]LogAIModule: Creating AISystem for world NewMap
+[2023.03.01-19.09.51:084][275]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.01-19.09.51:084][275]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.01-19.09.51:084][275]LogWorldPartition: UWorldPartition::Initialize(Asset=NewMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.01-19.09.51:324][275]LogContentBundle: [Container: NewMap] Creating new contrainer.
+[2023.03.01-19.09.51:324][275]LogWorldPartition: Display: WorldPartition initialize took 239 ms (total: 799 ms)
+[2023.03.01-19.09.51:804][275]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.01-19.09.51:908][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.03.01-19.09.51:940][275]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.01-19.09.51:942][275]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.892ms to complete.
+[2023.03.01-19.09.51:942][275]LogFileHelpers: Loading map 'NewMap' took 0.954
+[2023.03.01-19.09.51:942][275]LogSlate: Window 'Open Level' being destroyed
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: ================================================
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Total job queries 3651, among them cache hits 26 (0.71%)
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Tracking 3625 distinct input hashes that result in 2591 distinct outputs (71.48%)
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: RAM used: 25.17 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.54%
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Shaders Compiled: 3625
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Jobs assigned 3625, completed 3625 (100.00%)
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Average time worker was idle: 522.38 s
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 1.62 s
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Job execution time: average 825.12 s, max 1727.00 s
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Job life time (pending + execution): average 825.59 s, max 1728.61
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1787.28 s
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Jobs were issued in 367 batches (40 local, 327 distributed), average 9.88 jobs/batch (3.20 jobs/local batch. 10.69 jobs/distributed batch)
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Average processing rate: 2.03 jobs/sec
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Total thread time: 1800.01 s
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Total thread preprocess time: 99.83 s
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Percentage time preprocessing: 5.55%
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Effective parallelization: 1.01 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.01-19.09.52:146][275]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.73 sec, max 5.22 sec, min 3.22 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.41 sec, max 7.21 sec, min 1.78 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display:                                    FCloudRenderViewPS000true (compiled    1 times, average 2.64 sec, max 2.64 sec, min 2.64 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    2 times, average 2.07 sec, max 3.69 sec, min 0.45 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.81 sec, max 3.23 sec, min 1.07 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.87% of total time (compiled  150 times, average 1.54 sec, max 2.69 sec, min 1.38 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.86% of total time (compiled  128 times, average 0.54 sec, max 1.26 sec, min 0.32 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.66% of total time (compiled   96 times, average 0.69 sec, max 0.98 sec, min 0.28 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.65% of total time (compiled  128 times, average 0.51 sec, max 0.62 sec, min 0.40 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.44% of total time (compiled  128 times, average 0.48 sec, max 0.61 sec, min 0.37 sec)
+[2023.03.01-19.09.52:147][275]LogShaderCompilers: Display: ================================================
+[2023.03.01-19.10.32:613][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2023.03.01-19.10.32:613][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2023.03.01-19.10.32:614][878]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_B04F130491A9366B01_1844075656
+[2023.03.01-19.10.32:615][878]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_B04F130491A9366B01_1844075656
+[2023.03.01-19.10.49:122][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.01-19.10.49:169][936]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/MD/L1FFYO0G2QQCF179KOG60D
+[2023.03.01-19.10.49:169][936]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/L1FFYO0G2QQCF179KOG60D6C48DAC540D14A11C601F7B3A579CA2B.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/__ExternalActors__/NewMap/1/MD/L1FFYO0G2QQCF179KOG60D.uasset'
+[2023.03.01-19.10.49:405][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms (total: 2.23 sec)
+[2023.03.01-19.10.49:410][936]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_B04F130491A9366B01_1844075656
+[2023.03.01-19.10.49:410][936]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_B04F130491A9366B01_1844075656
