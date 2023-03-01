@@ -1557,3 +1557,5 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.03.01-17.03.53:483][ 49]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'Y:/gittest/GitTest'
 [2023.03.01-17.03.53:484][ 49]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'Y:/gittest/GitTest'
 [2023.03.01-17.03.53:620][ 49]EditorErrors: Warning: No assets to check in!
+[2023.03.01-17.34.06:999][883]LogSlate: Window 'Content Browser' being destroyed
+[2023.03.01-17.34.07:001][883]LogSlate: Window 'Content Browser' being destroyed
