@@ -1534,3 +1534,11 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2023.03.06-19.36.55:840][780]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003912s (0.639445s overbudget)
 [2023.03.06-19.37.07:186][769]LogStaticMesh: Built static mesh [13.58s] /Game/StarterContent/Tank/Mark_V_Tank.Mark_V_Tank
 [2023.03.06-19.37.12:764][157]LogMeshUtilities: Finished distance field build in 2.8s - 126x98x70 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 88% occupied, 500516 triangles, Mark_V_Tank
+[2023.03.06-19.42.07:471][472]Cmd: DUPLICATE
+[2023.03.06-19.42.07:471][472]Cmd: ACTOR DUPLICATE
+[2023.03.06-19.42.12:946][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.06-19.42.12:992][915]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/H4/46B0CZMFU1HNHK7K6WPI4C
+[2023.03.06-19.42.12:992][915]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/46B0CZMFU1HNHK7K6WPI4CF3274F204664E1D37E9AFF8E7F04EAD8.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/__ExternalActors__/NewMap/A/H4/46B0CZMFU1HNHK7K6WPI4C.uasset'
+[2023.03.06-19.42.13:232][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 1.93 sec)
+[2023.03.06-19.42.13:237][915]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_B04F130491A9CA6C01_1947249759
+[2023.03.06-19.42.13:237][915]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_B04F130491A9CA6C01_1947249759
