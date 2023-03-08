@@ -1508,3 +1508,185 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.03.08-18.12.37:135][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2023.03.08-18.12.37:342][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.03.08-18.12.40:445][121]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.08-18.25.56:675][735]LogSlate: Took 0.003145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.08-18.25.58:057][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.08-18.25.58:132][851]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewMap.NewMap
+[2023.03.08-18.25.58:132][851]Cmd: MAP LOAD FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.08-18.25.58:132][851]LightingResults: New page: Lighting Build
+[2023.03.08-18.25.58:132][851]LoadErrors: New page: Loading map: NewMap.umap
+[2023.03.08-18.25.58:173][851]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-18.25.58:174][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-18.25.58:175][851]LogContentBundle: [Container: Untitled_1] Deleting container.
+[2023.03.08-18.25.58:175][851]MapCheck: New page: Map Check
+[2023.03.08-18.25.58:175][851]LightingResults: New page: Lighting Build
+[2023.03.08-18.25.58:183][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-18.25.58:201][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.08-18.25.58:206][851]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-18.25.58:206][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-18.25.58:214][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.03.08-18.25.58:224][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.08-18.25.58:230][851]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2023.03.08-18.25.58:230][851]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.08-18.25.58:230][851]LogAIModule: Creating AISystem for world NewMap
+[2023.03.08-18.25.58:231][851]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.08-18.25.58:231][851]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.08-18.25.58:231][851]LogWorldPartition: UWorldPartition::Initialize(Asset=NewMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.08-18.25.58:321][851]LogStaticMesh: Display: Building static mesh Mark_V_Tank...
+[2023.03.08-18.25.58:623][851]LogContentBundle: [Container: NewMap] Creating new contrainer.
+[2023.03.08-18.25.58:623][851]LogWorldPartition: Display: WorldPartition initialize took 392 ms (total: 757 ms)
+[2023.03.08-18.25.59:352][851]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.08-18.25.59:466][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.08-18.25.59:486][851]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.08-18.25.59:487][851]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.291ms to complete.
+[2023.03.08-18.25.59:487][851]LogFileHelpers: Loading map 'NewMap' took 1.355
+[2023.03.08-18.25.59:651][851]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.25.59:651][851]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.25.59:683][851]LogShaderCompilers: Display: ================================================
+[2023.03.08-18.25.59:683][851]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.08-18.25.59:683][851]LogShaderCompilers: Display: Total job queries 3642, among them cache hits 13 (0.36%)
+[2023.03.08-18.25.59:683][851]LogShaderCompilers: Display: Tracking 3629 distinct input hashes that result in 2591 distinct outputs (71.40%)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: RAM used: 25.19 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.54%
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Shaders Compiled: 3629
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Jobs assigned 3629, completed 3629 (100.00%)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Average time worker was idle: 450.53 s
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Time job spent in pending queue: average 0.73 s, longest 2.48 s
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Job execution time: average 808.27 s, max 1695.55 s
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Job life time (pending + execution): average 809.00 s, max 1698.03
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1758.51 s
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Jobs were issued in 371 batches (44 local, 327 distributed), average 9.78 jobs/batch (3.00 jobs/local batch. 10.69 jobs/distributed batch)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Average processing rate: 2.06 jobs/sec
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Total thread time: 1786.26 s
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Total thread preprocess time: 103.03 s
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Percentage time preprocessing: 5.77%
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Effective parallelization: 1.02 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.67 sec, max 5.31 sec, min 3.20 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.31 sec, max 6.90 sec, min 1.76 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.80 sec, max 3.39 sec, min 1.01 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.51 sec, max 3.27 sec, min 1.34 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                                    FCloudRenderViewPS000true (compiled    1 times, average 1.42 sec, max 1.42 sec, min 1.42 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.70% of total time (compiled  150 times, average 1.51 sec, max 3.27 sec, min 1.34 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.86% of total time (compiled  128 times, average 0.54 sec, max 2.20 sec, min 0.32 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.59% of total time (compiled  128 times, average 0.50 sec, max 0.68 sec, min 0.39 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.59% of total time (compiled   96 times, average 0.67 sec, max 0.90 sec, min 0.28 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.42% of total time (compiled  128 times, average 0.48 sec, max 0.76 sec, min 0.37 sec)
+[2023.03.08-18.25.59:684][851]LogShaderCompilers: Display: ================================================
+[2023.03.08-18.26.02:526][996]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.26.02:526][996]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.26.10:391][527]LogStaticMesh: Built static mesh [12.07s] /Game/StarterContent/Tank/Mark_V_Tank.Mark_V_Tank
+[2023.03.08-18.26.15:490][918]LogMeshUtilities: Finished distance field build in 2.5s - 126x98x70 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 88% occupied, 500516 triangles, Mark_V_Tank
+[2023.03.08-18.26.17:900][ 61]LogTexture: Display: Building textures: /Game/Sprites/zombie_sprite1.zombie_sprite1 (TFO_AutoDXT, 24x24 x1x1x1) (Required Memory Estimate: 0.15332 MB), EncodeSpeed: Fast
+[2023.03.08-18.26.24:307][715]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.26.24:307][715]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.26.24:478][732]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.26.24:478][732]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.26.25:541][796]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.26.25:542][796]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.26.27:476][966]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.26.27:476][966]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.00:159][646]LogTexture: Display: Building textures: /Game/Sprites/zombie_sprite2.zombie_sprite2 (TFO_AutoDXT, 24x24 x1x1x1) (Required Memory Estimate: 0.15332 MB), EncodeSpeed: Fast
+[2023.03.08-18.27.00:161][646]LogTexture: Display: Building textures: /Game/Sprites/zombie_sprite3.zombie_sprite3 (TFO_AutoDXT, 24x24 x1x1x1) (Required Memory Estimate: 0.15332 MB), EncodeSpeed: Fast
+[2023.03.08-18.27.00:162][646]LogTexture: Display: Building textures: /Game/Sprites/zombie_sprite4.zombie_sprite4 (TFO_AutoDXT, 24x24 x1x1x1) (Required Memory Estimate: 0.15332 MB), EncodeSpeed: Fast
+[2023.03.08-18.27.02:556][860]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.02:556][860]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.02:797][860]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.02:797][860]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.03:022][860]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.03:022][860]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.03:221][878]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.03:221][878]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.04:193][945]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.04:193][945]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.05:466][ 60]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.05:466][ 60]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.11:000][553]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.11:000][553]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.11:000][553]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.11:000][553]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.11:224][553]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.11:224][553]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.11:419][553]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.11:419][553]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.11:654][553]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.11:654][553]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.11:886][553]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.11:886][553]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.11:910][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.08-18.27.11:920][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.08-18.27.11:928][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.08-18.27.11:941][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.08-18.27.11:948][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.08-18.27.11:956][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.08-18.27.12:117][567]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.12:117][567]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.12:126][568]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.12:126][568]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.13:101][681]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.13:101][681]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.13:126][684]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.13:127][684]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.21:872][432]LogTexture: Display: Building textures: /Game/Sprites/spacesuit_walk1.spacesuit_walk1 (TFO_AutoDXT, 24x24 x1x1x1) (Required Memory Estimate: 0.15332 MB), EncodeSpeed: Fast
+[2023.03.08-18.27.21:873][432]LogTexture: Display: Building textures: /Game/Sprites/spacesuit_walk2.spacesuit_walk2 (TFO_AutoDXT, 24x24 x1x1x1) (Required Memory Estimate: 0.15332 MB), EncodeSpeed: Fast
+[2023.03.08-18.27.21:874][432]LogTexture: Display: Building textures: /Game/Sprites/spacesuit_walk3.spacesuit_walk3 (TFO_AutoDXT, 24x24 x1x1x1) (Required Memory Estimate: 0.15332 MB), EncodeSpeed: Fast
+[2023.03.08-18.27.21:875][432]LogTexture: Display: Building textures: /Game/Sprites/spacesuit_walk4.spacesuit_walk4 (TFO_AutoDXT, 24x24 x1x1x1) (Required Memory Estimate: 0.15332 MB), EncodeSpeed: Fast
+[2023.03.08-18.27.24:177][620]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.24:177][620]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.24:376][620]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.24:376][620]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.24:621][620]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.24:621][620]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.24:877][620]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.24:877][620]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.25:077][637]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.25:077][637]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.26:048][705]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.26:048][705]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.27.27:566][843]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.27.27:566][843]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.31.25:739][668]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.31.25:739][668]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.31.36:315][342]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.31.36:315][342]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.31.36:319][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.08-18.31.36:380][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/zombie_sprite1_Sprite" FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/zombie_sprite1_Sprite.uasset" SILENT=true
+[2023.03.08-18.31.36:401][342]LogSavePackage: Moving output files for package: /Game/Sprites/zombie_sprite1_Sprite
+[2023.03.08-18.31.36:401][342]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/zombie_sprite1_SpriteAC12FDA74C5843F966FF43B1FE089F22.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/zombie_sprite1_Sprite.uasset'
+[2023.03.08-18.31.36:411][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/zombie_sprite2_Sprite" FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/zombie_sprite2_Sprite.uasset" SILENT=true
+[2023.03.08-18.31.36:426][342]LogSavePackage: Moving output files for package: /Game/Sprites/zombie_sprite2_Sprite
+[2023.03.08-18.31.36:426][342]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/zombie_sprite2_Sprite48C9550542FAB61FAAA96F9974129189.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/zombie_sprite2_Sprite.uasset'
+[2023.03.08-18.31.36:432][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/zombie_sprite3_Sprite" FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/zombie_sprite3_Sprite.uasset" SILENT=true
+[2023.03.08-18.31.36:444][342]LogSavePackage: Moving output files for package: /Game/Sprites/zombie_sprite3_Sprite
+[2023.03.08-18.31.36:444][342]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/zombie_sprite3_SpriteD7E737B345DCFCC360BD99B05D638BAD.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/zombie_sprite3_Sprite.uasset'
+[2023.03.08-18.31.36:449][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/zombie_sprite4_Sprite" FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/zombie_sprite4_Sprite.uasset" SILENT=true
+[2023.03.08-18.31.36:464][342]LogSavePackage: Moving output files for package: /Game/Sprites/zombie_sprite4_Sprite
+[2023.03.08-18.31.36:464][342]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/zombie_sprite4_SpriteFC455A5E49F9B239250465803012BBB9.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/zombie_sprite4_Sprite.uasset'
+[2023.03.08-18.31.36:469][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/spacesuit_walk1_Sprite" FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/spacesuit_walk1_Sprite.uasset" SILENT=true
+[2023.03.08-18.31.36:481][342]LogSavePackage: Moving output files for package: /Game/Sprites/spacesuit_walk1_Sprite
+[2023.03.08-18.31.36:481][342]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/spacesuit_walk1_Sprite2033D67C436F69E97DECBF9F2CD0D7F8.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/spacesuit_walk1_Sprite.uasset'
+[2023.03.08-18.31.36:486][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/spacesuit_walk2_Sprite" FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/spacesuit_walk2_Sprite.uasset" SILENT=true
+[2023.03.08-18.31.36:498][342]LogSavePackage: Moving output files for package: /Game/Sprites/spacesuit_walk2_Sprite
+[2023.03.08-18.31.36:499][342]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/spacesuit_walk2_Sprite4130359B4311817D635634A637BD7F3F.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/spacesuit_walk2_Sprite.uasset'
+[2023.03.08-18.31.36:507][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/spacesuit_walk3_Sprite" FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/spacesuit_walk3_Sprite.uasset" SILENT=true
+[2023.03.08-18.31.36:520][342]LogSavePackage: Moving output files for package: /Game/Sprites/spacesuit_walk3_Sprite
+[2023.03.08-18.31.36:520][342]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/spacesuit_walk3_Sprite7CFF197A472A7C3D16E437900A13847F.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/spacesuit_walk3_Sprite.uasset'
+[2023.03.08-18.31.36:525][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/spacesuit_walk4_Sprite" FILE="Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/spacesuit_walk4_Sprite.uasset" SILENT=true
+[2023.03.08-18.31.36:538][342]LogSavePackage: Moving output files for package: /Game/Sprites/spacesuit_walk4_Sprite
+[2023.03.08-18.31.36:538][342]LogSavePackage: Moving 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Saved/spacesuit_walk4_SpriteF3C482F9462116F26E53FF875E25955B.tmp' to 'Y:/CW Unreal Projects/GitTest/Unreal Git Project/Content/Sprites/spacesuit_walk4_Sprite.uasset'
+[2023.03.08-18.31.36:940][342]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.31.36:940][342]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.31.36:940][342]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.31.36:940][342]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.08-18.31.36:945][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 627 ms (total: 1.38 sec)
+[2023.03.08-18.31.36:952][342]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.08-18.31.36:952][342]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/spacesuit_walk4_Sprite.spacesuit_walk4_Sprite
+[2023.03.08-18.31.36:952][342]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/spacesuit_walk3_Sprite.spacesuit_walk3_Sprite
+[2023.03.08-18.31.36:952][342]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/zombie_sprite1_Sprite.zombie_sprite1_Sprite
+[2023.03.08-18.31.36:953][342]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/spacesuit_walk2_Sprite.spacesuit_walk2_Sprite
+[2023.03.08-18.31.36:953][342]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/spacesuit_walk1_Sprite.spacesuit_walk1_Sprite
+[2023.03.08-18.31.36:953][342]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/zombie_sprite2_Sprite.zombie_sprite2_Sprite
+[2023.03.08-18.31.36:953][342]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/zombie_sprite3_Sprite.zombie_sprite3_Sprite
+[2023.03.08-18.31.36:953][342]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/zombie_sprite4_Sprite.zombie_sprite4_Sprite
+[2023.03.08-18.31.37:114][349]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
+[2023.03.08-18.31.37:114][349]SourceControl: Error: fatal: the remote end hung up unexpectedly
