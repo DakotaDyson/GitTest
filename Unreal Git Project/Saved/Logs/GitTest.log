@@ -3466,3 +3466,11 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.03.22-17.44.05:907][907]LogSlate: Window 'NewMap_HLOD0_Instancing' being destroyed
 [2023.03.22-17.45.05:333][737]SourceControl: Error: git-lfs filter-process: git-lfs: command not found
 [2023.03.22-17.45.05:333][737]SourceControl: Error: fatal: the remote end hung up unexpectedly
+[2023.03.22-17.59.29:699][275]LogLinker: Warning: [AssetLog] Y:\Project Dev Group 4\GitTest\Unreal Git Project\Content\Mcano\Floor.uasset: Failed to load '/Game/Mcano/Floordamage1_TileSet': Can't find file.
+[2023.03.22-17.59.29:699][275]LogLinker: Warning: [AssetLog] Y:\Project Dev Group 4\GitTest\Unreal Git Project\Content\Mcano\Floor.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Mcano/Floordamage1_TileSet'
+[2023.03.22-17.59.29:704][275]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Mcano/Floor.Floor
+[2023.03.22-17.59.29:707][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-17.59.29:834][275]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.22-17.59.29:838][275]LogViewport: Scene viewport resized to 272x428, mode Windowed.
+[2023.03.22-17.59.29:856][275]LogViewport: Scene viewport resized to 757x538, mode Windowed.
+[2023.03.22-17.59.29:864][275]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
